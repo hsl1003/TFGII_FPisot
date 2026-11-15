@@ -166,3 +166,6 @@ Modificación de conflicto realizada por HFF para el commit 6.
 Modificación de conflicto realizada por JMI para el commit 5.
 
 Conflicto 2 resuelto por el equipo para el Commit 8 por HFF.
+
+Conflicto 2 resuelto por el equipo para el Commit 7.
+
