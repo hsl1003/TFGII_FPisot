@@ -160,4 +160,8 @@ Si tienes preguntas o necesitas más información, no dudes en contactarme:
 
 ¡Gracias por tu interés en este proyecto! 💡
 
+
 Modificación de conflicto realizada por HFF para el commit 6.
+
+Modificación de conflicto realizada por JMI para el commit 5.
+
